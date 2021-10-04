@@ -19,7 +19,7 @@ result:
 2 x 2000
 1 x 500
 
-
+![Capture](https://user-images.githubusercontent.com/64628260/135862229-4257f60d-c7b4-4b09-abc5-b3b4850ae8c9.PNG)
 
 
 #soal 2
