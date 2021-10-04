@@ -35,7 +35,7 @@ Buatlah sebuah function untuk menyaring link yang memiliki subdomain.
 Zilong seorang programmer handal ia diberikan tugas untuk membuat sebuah function yang dimana function tersebut berfungsi untuk membuat sebuah segitiga pascal.
 
 
-
+![image](https://user-images.githubusercontent.com/64628260/135862918-8becc56b-c975-431c-8172-ae493bc01584.png)
 
 #soal 4A
 Diketahui sebuah web wiki games mempunyai 2 buah table :
@@ -58,3 +58,10 @@ Tampilkan seluruh data dari table heroes beserta type dari hero tsb
 Tampilkan seluruh data heroes berdasarkan type tertentu
 Tampilkan spesifik data heroes dengan type nya
  Screen shootkan juga hasil query POST / menambah data.
+jawaban nomor 4 ada di folder repository
+
+
+
+
+#soal 4B
+maaf saya belum mengerti kak untuk pemograman PHP
