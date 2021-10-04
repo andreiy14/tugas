@@ -28,6 +28,8 @@ Diketahui sebuah data array sebagai berikut:
 
 
 Buatlah sebuah function untuk menyaring link yang memiliki subdomain.
+![Capture2](https://user-images.githubusercontent.com/64628260/135862666-d5d41c20-c94a-4c7c-a87e-f8afadfc1bdd.PNG)
+
 
 #soal 3
 Zilong seorang programmer handal ia diberikan tugas untuk membuat sebuah function yang dimana function tersebut berfungsi untuk membuat sebuah segitiga pascal.
